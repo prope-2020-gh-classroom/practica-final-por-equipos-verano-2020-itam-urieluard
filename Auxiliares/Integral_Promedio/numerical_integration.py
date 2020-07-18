@@ -40,7 +40,7 @@ def Rcf(f,a,b,n): #Rcf: composite rectangle method
     """
     h_hat=(b-a)/n
     sum_res = 0
-    for i in np.arange(n):
+    for i in range(n+1):
         x = a + (i+1/2)*h_hat
         sum_res+= f(x)
     return h_hat*sum_res 
