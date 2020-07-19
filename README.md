@@ -8,6 +8,7 @@ Proyecto final del **Equipo 3**, integrado por:
 |Leonardo Ceja|[lecepe00](https://github.com/lecepe00)|
 |Uriel Rangel|[urieluard](https://github.com/urieluard)|
 
-Éste proyecto fue desarrollado en `Python`, con información de las siguientes fuentes:
+Éste proyecto fue desarrollado en `Python`, con información proporcionada por el **Centro Nacional de Control de Energía (CENACE)**. 
 
-  * [Fast Normalized Cross-Correlation](https://web.archive.org/web/20061025183237/http://www.idiom.com/~zilla/Work/nvisionInterface/nip.html).
+Se trabajó con los datos de demanda y consumo de energía eléctrica de la Región Occidente de México, para el periodo Septiembre 2017 a Julio 2020.
+
