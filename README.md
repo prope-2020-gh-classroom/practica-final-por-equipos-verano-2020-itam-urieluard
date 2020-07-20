@@ -6,7 +6,9 @@ Proyecto final del **Equipo 3**, integrado por:
 |:--:|:--:|
 |Antonio Huerta|[TheHornyDaddy](https://github.com/TheHornyDaddy)|
 |Leonardo Ceja|[lecepe00](https://github.com/lecepe00)|
-|Uriel Rangel|[urieluard](https://github.com/urieluard)|
+|Uriel Rangel*|[urieluard](https://github.com/urieluard)|
+
+*Project Manager*
 
 Éste proyecto fue desarrollado en `Python`, con información proporcionada por el **Centro Nacional de Control de Energía (CENACE)**. 
 
