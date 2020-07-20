@@ -8,7 +8,7 @@ Proyecto final del **Equipo 3**, integrado por:
 |Leonardo Ceja|[lecepe00](https://github.com/lecepe00)|
 |Uriel Rangel*|[urieluard](https://github.com/urieluard)|
 
-*Project Manager*
+* Project Manager
 
 Éste proyecto fue desarrollado en `Python`, con información proporcionada por el **Centro Nacional de Control de Energía (CENACE)**. 
 
